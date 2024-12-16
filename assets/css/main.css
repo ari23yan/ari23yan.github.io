@@ -366,7 +366,7 @@ h6 {
 --------------------------------------------------------------*/
 .footer {
   color: var(--default-color);
-  background-color: var(--background-color);
+  background-color: #e5e5e582;
   font-size: 14px;
   padding: 40px 0;
   position: relative;
@@ -503,7 +503,7 @@ h6 {
 section,
 .section {
   color: var(--default-color);
-  background-color: var(--background-color);
+  /* background-color: var(--background-color); */
   padding: 60px 0;
   overflow: clip;
 }
